@@ -6,7 +6,8 @@ body{
 	margin: 0;
 	/*font-family: 'Source Sans Pro',Helvetica,Arial,sans-serif;*/
 	/*font-family: "San Francisco", "Helvetica Neue", sans-serif;*/
-	font-family: 'Oswald', sans-serif;
+	/*font-family: 'Oswald', sans-serif;*/
+	font-family: 'Nunito', sans-serif;
 	font-size: 18px; 
 	line-height: 35px; 
 	/*color: #757575; */
@@ -36,11 +37,15 @@ body{
   color: #f2f2f2;
   text-align: center;
   vertical-align: center; 
-  padding: 30px;
+  padding-left: 20px;
+  padding-right: 20px; 
+  padding-bottom: 30px; 
+  padding-top: 30px; 
   text-decoration: none;
-  font-size: 18px;
-  letter-spacing: 2px; 
+  font-size: 15px;
+  letter-spacing: 1px; 
   font-weight: bold; 
+  font-family: 'Nunito', sans-serif;
 }
 
 /* Change the color of links on hover */
@@ -147,7 +152,6 @@ header img {
   height: auto;
 }
 
-
 .centered{
 	position: absolute;
 	top: 45%;
@@ -230,7 +234,7 @@ main img {
 .sectiontitle{
     font-size: 2.5em;
     font-weight: 700;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
     text-align: center;
     color: #555;
     text-transform: uppercase;
@@ -263,7 +267,8 @@ p{
 	color: #757575;
 	margin: 0; 
 	/*font-family: 'News Cycle', sans-serif;*/
-	font-family: 'Gupter', serif;
+	/*font-family: 'Gupter', serif;*/
+	font-family: 'Nunito', sans-serif;
 }
 
 /* LINK INFORMATION */
