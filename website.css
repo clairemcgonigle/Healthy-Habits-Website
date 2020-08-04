@@ -32,6 +32,11 @@ body{
   padding-bottom: 7px;*/
 }
 
+/*.navbar img {
+	height: 100%; 
+	text-align: left; 
+}*/
+
 .navbar-nav {
 	text-align: center; 
 }
@@ -164,6 +169,7 @@ header img {
 .container {
 	max-width: 1100px; 
     margin: 0 auto;
+    padding: 0px;
    }
 
 .container .bttn{
